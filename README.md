@@ -9,8 +9,6 @@ This project focuses on enhancing perception in autonomous vehicles through **co
 - Supports **Vehicle-only**, **Infrastructure-only**, and **Cooperative (Fused)** configurations
 - Custom **data preprocessing** pipeline to handle the multi-agent TUMTraf dataset
 - Bounding box **visualization in BEV (Bird’s Eye View)** using both Matplotlib and Open3D
-- Training logs and evaluation include **loss plots, mAP, IoU, Precision, and Recall**
-- ⚙️ Built entirely from scratch without relying on the original CoopDet3D codebase
 
 ## 📁 Folder Structure
 
