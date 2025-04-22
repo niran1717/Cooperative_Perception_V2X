@@ -78,9 +78,9 @@ This module is structured and located under `output/LLM/`, and will serve as a d
 
 ## 📈 Sample Results
 
-- **Vehicle-only LiDAR**: 80.1 mAP₃D Avg
-- **Infra-only LiDAR**: 84.88 mAP₃D Avg
-- **Cooperative LiDAR**: **90.76 mAP₃D Avg**
+- **Vehicle-only LiDAR**: 80.1 mAP Avg
+- **Infra-only LiDAR**: 84.88 mAP Avg
+- **Cooperative LiDAR**: **90.76 mAP Avg**
 
 Visual samples are included in the repo under `output/bev_comparisons`.
 
